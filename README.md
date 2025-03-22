@@ -6,6 +6,7 @@ This is a simple console-based implementation of the classic Connect Four game u
 
 - [Introduction](#introduction)
 - [Features](#features)
+- [Game Windows](#game-windows)
 - [Installation](#installation)
 - [Usage](#usage)
 - [Game Rules](#game-rules)
@@ -25,6 +26,14 @@ This implementation uses procedural programming, a programming paradigm based on
 - Input validation
 - Instructions and game rules display
 - Option to play again or exit
+
+## Game Windows
+
+![Menu window](/screenshots/menu.png)
+![Instructions window](/screenshots/instructions.png)
+![Win window](/screenshots/winner.png)
+![Draw window](/screenshots/draw.png)
+![Exit window](/screenshots/exit.png)
 
 ## Installation
 
